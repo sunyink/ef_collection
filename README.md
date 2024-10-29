@@ -4,6 +4,8 @@
 
 资源不定期新增，详见[7.更新日志](#7更新日志)。
 
+【2024.10.23】之前没料想到[至今也有本组以外的人](https://u2.dmhy.org/details.php?id=55525)在做ef的文物修复工作，未防重复劳动以及为了获得更好的成果，在此也公布下组里持续了一年多的工程：所有的cd资源（含扫图）全部洗版，有兴趣者欢迎参与或交流。至于具体进度恕不公布 ~~，但超过一半了还是可以说的。~~
+
 【2019.10.28】本档案楼资源部分已基本完备，工作重心转向[4.参考资料](#4参考资料文献访谈和优质感想贴)和[8.商品档案楼](#8商品档案楼)搭建，以及[光荣烤肉之路](https://b23.tv/FqTzUGl)。
 
 - [0.引言](#0引言)
@@ -140,16 +142,11 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 
 ### 关于音乐和广播剧
 
-资源的组成为
+抓轨标准参考[天使](https://www.tsdm39.com/forum.php?mod=viewthread&tid=1136558&&fromuid=1034922)
 
-1. 旧有合集（即各论坛随处可见的）收录\[flac整轨\]和\[tak+tta\]两版本，并分别进行了修正改良和整理。
-2. 新增资源统一flac。
+由于改动较多，就不列在更新日志了，见[音乐资源演变史.md](./音乐资源演变史.md)
 
-[天雪flac合集改良说明](https://docs.qq.com/doc/DT1BNSW1YWmRTTFdI)
-
-[phlisophy raws合集改良说明](https://docs.qq.com/doc/DT1RhcGVMc0VDWXNs)
-
-Bangumi目录索引
+个人目录索引
 
 - [Ost](http://bgm.tv/index/29206)
 
@@ -174,7 +171,7 @@ Bangumi目录索引
 
 另外，几个术语稍微说一下吧，bk通常指专辑附带信息的扫描图，含有CD封面图、歌词一类的信息；rr就是恢复记录百分比，用于修复意外损坏的压缩包；OD就是Onedrive盘；若未作任何说明，bgm通常指[bgm.tv](https://bgm.tv/)这个维基网站。
 
-## a.Onedrive盘
+## a.Onedrive盘（更新最快，其他均为延时分流）
 
 第一代管理者[@萌新](http://sion.ys168.com/)、[@devil](https://github.com/devil233-ui)
 
@@ -235,27 +232,6 @@ Bangumi目录索引
 第二代管理者[@devil](https://github.com/devil233-ui)，协管[@妖梦](https://github.com/ShiinaRinne)
 
 **Ⅰ.游戏**
-<details><summary>游戏汉硬（PC+ONS+Kr）</summary>
-    
-  (ons、kr都是手机平板上玩的，模拟器网上自己随便搜一个。)
- - first 注意：游戏最开始教堂那段是没有声音的
- - latter
- - fandisc-天使の日曜日
- - fdex-天使の日曜日续
- - 日曜日附带优子sama小游戏
-
-</details>
-<br>
-<details><summary>游戏录播</summary>
-
-- [first ](https://b23.tv/av25621584)
-- [latter ](https://b23.tv/av31340212)
-- [日曜日 ](https://b23.tv/av6357180) [日曜日后日谈](https://b23.tv/av67413693)
-- [日曜日续](https://pan.baidu.com/s/1bkD-RhZ5ew59oDxshtK-uQ?pwd=shvl)(没办法睿站不给过)
-- [优子sama小游戏](https://b23.tv/av37683)
-
-</details>
-  
 - 游戏CG（PC三大作+PS2）
 
 - [游戏日文原版](https://pan.baidu.com/s/1HDDBG6htgmP0YVEyaJR7QA?pwd=sqwa)
@@ -266,6 +242,27 @@ Bangumi目录索引
 
 - [游戏美版（两作,含R18补丁）](https://pan.baidu.com/s/1Aw5DH1QOadpFgfaMBwwvjQ?pwd=32yo)<br>
   英文版ef是由mangagamer公司改动并翻译的，两部分别在2012年和2013年发布。这家公司同时也翻译了包括eden\*在内的许多经典作品，如有兴趣可以前往官网查看。英文版和日文版的区别大概是英文版的翻译内容和方式有所不同，情节都是一样。另外英文版的码特别薄，是可以隐约看见“内容”的那种。2019.10.17移上架steam。
+
+<details><summary>游戏汉硬（PC+ONS+Kr）</summary>
+    
+  (ons、kr都是手机平板上玩的，模拟器网上自己随便搜一个。)
+ - first 注意：游戏最开始教堂那段是没有声音的
+ - latter
+ - fandisc-天使の日曜日
+ - fdex-天使の日曜日续
+ - 日曜日附带优子sama小游戏
+
+</details>
+
+<details><summary>游戏录播</summary>
+
+- [first ](https://b23.tv/av25621584)
+- [latter ](https://b23.tv/av31340212)
+- [日曜日 ](https://b23.tv/av6357180) [日曜日后日谈](https://b23.tv/av67413693)
+- [日曜日续](https://pan.baidu.com/s/1bkD-RhZ5ew59oDxshtK-uQ?pwd=shvl)(没办法睿站不给过)
+- [优子sama小游戏](https://b23.tv/av37683)
+
+</details>
 
 **Ⅱ.动画**
 
@@ -343,13 +340,17 @@ g. ef_website_present
 
 动画官网的小彩蛋，资深点的应该都知道这玩意。
 
-**[Ⅲ.音乐和广播剧](https://pan.baidu.com/s/1qgbZXTFKFWBXDR5chlNrUg?pwd=iw4h3ax1)**
+**Ⅲ.音乐和广播剧**
 
-**[Ⅳ.漫画](https://pan.baidu.com/s/1GgPyHcuzNXE4qlAIRStgUg?pwd=trss)**
+Ost + Single + Drama
+
+**Ⅳ.漫画**
+
+1-10卷 + 公式コミックファンブック
 
 **Ⅴ.实物图 碟片、box、设定集、画册扫图**
 
-**[Ⅵ.MAD](https://pan.baidu.com/s/18NLEoEusfrZrmdee75a7wQ?pwd=0l6i)**
+**Ⅵ.MAD**
 
 **Ⅶ.周边和特典**
 
