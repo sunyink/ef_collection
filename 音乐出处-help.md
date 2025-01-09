@@ -3,30 +3,6 @@
 #歌曲均不入选
 动画剧集位置|OST专辑名\长度\标题名|备注信息
 :-:|:-:|:-:
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\4:23\Overture|连续转奏多曲目
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:37\ebullient future (English TV-EDIT ver.1)|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:37\The other side of mask|(-1)丢弃
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\2:16\Dissembles|(-1)丢弃
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\4:28\Separate way|(-1)丢弃
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:28\Answer of asking oneself|(-1)丢弃
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:32\Embarrassed|？-1
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:31\Still alive|*3
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:42\Scary|(-1)丢弃
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:32\Determined herself|*3
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\2:38\Because, he is here.|*3 TV-A1
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:59\Who's problem|(-1)丢弃
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:24\Abnormal smile|(-1)丢弃
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:33\Twins, separate place|*3转奏多曲目（前人完毕）
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:04\Two standpoints|*4
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:42\Evening calm|*3
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:35\Confession|*5小提琴凄厉的
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:19\A girl whom you deserted|(-1)丢弃
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:34\願いのカケラ (TV-EDIT ver.A)|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:11\Entropy|(-1)丢弃
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\2:01\Small revenge|*2管风琴
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:50\Kill and come.|(-1)丢弃
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:00\Why? Why? Why?|(-1)丢弃
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:30\笑顔のチカラ (TV-EDIT ver.A)|
 
 
 |\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\2:50\Church's bell|*3，A moon filled sky管风琴演奏
@@ -53,6 +29,37 @@ GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\1:
 GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\1:40\Desire that doesn't want to forget|(-1)丢弃
 GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\6:10\Start and Stay with|*2，TV-A1A2转奏多曲目（终曲）
 GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\4:39\悠久の翼 [eternal feather] 07.mix Ef-Main削弱配乐演绎
+
+
+
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\4:23\Overture|连续转奏多曲目
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:37\ebullient future (English TV-EDIT ver.1)|
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:37\The other side of mask|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\2:16\Dissembles|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\4:28\Separate way|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:28\Answer of asking oneself|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:32\Embarrassed|？-1
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:31\Still alive|*3
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:42\Scary|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:32\Determined herself|*3
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\2:38\Because, he is here.|*3 TV-A1
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:59\Who's problem|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:24\Abnormal smile|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:33\Twins, separate place|*3转奏多曲目（前人完毕）
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:04\Two standpoints|*4
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:42\Evening calm|*3
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:35\Confession|*5小提琴凄厉的
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:19\A girl whom you deserted|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:34\願いのカケラ (TV-EDIT ver.A)|
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:11\Entropy|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\2:01\Small revenge|*2管风琴
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:50\Kill and come.|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:00\Why? Why? Why?|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:30\笑顔のチカラ (TV-EDIT ver.A)|
+
+
+
+
 
 
 #局部标准改变，（1~5）星1表示舍弃。
